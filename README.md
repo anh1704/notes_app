@@ -12,7 +12,7 @@ Người dùng có thể viết, lưu và xoá ghi chú dễ dàng.
 - Giao diện hiện đại với gradient background  
 
 ## Demo giao diện
-![Demo giao diện](/notes-app/notes-app-ui/public/image-demo.png)
+![Demo giao diện](/notes-app-ui/public/image-demo.png)
 
 ---
 
